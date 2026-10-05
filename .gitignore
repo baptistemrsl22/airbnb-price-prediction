@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local datasets / generated predictions
+airbnb_train.csv
+airbnb_test.csv
+prediction_example.csv
+MaPredictionFinale.csv
+
+# OS
+.DS_Store
+Thumbs.db
